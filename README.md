@@ -6,7 +6,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 Aplicación web interactiva para la gestión de catálogos y préstamos de libros, desarrollada dentro del módulo de **Lenguajes de Marcas** (1º DAW).
-##  Tabla de Contenidos
+##  ***Tabla de Contenidos***
 - [Descripción General](#-descripción-general)
 - [Características Principales](#-características-principales)
 - [Tecnologías Utilizadas](#-tecnologías-utilizadas)
@@ -14,6 +14,16 @@ Aplicación web interactiva para la gestión de catálogos y préstamos de libro
 - [Estructura del Proyecto](#-estructura-del-proyecto)
 - [Uso y Capturas](#-uso-y-capturas)
 - [Licencia y Autoría](#-licencia-y-autoría)
+### Descripción General y Problema que Resuelve
+La gestión tradicional de la biblioteca del **IES Celia Viñas** se realizaba mediante registros manuales en papel u hojas de cálculo, lo que generaba varios problemas: dificultad para conocer en tiempo real la disponibilidad de los ejemplares, errores en el registro de préstamos y devoluciones, y pérdida de tiempo tanto para el personal de biblioteca como para el alumnado que deseaba consultar el catálogo.
+
+Este proyecto nace como una ***solución digital sencilla*** que centraliza el catálogo de libros en una interfaz web accesible desde cualquier dispositivo, permitiendo consultar, filtrar y visualizar el fondo bibliográfico de forma rápida e intuitiva, sin necesidad de revisar registros físicos.
+
+La aplicación va dirigida principalmente a:
+- El **personal de la biblioteca** del centro, que necesita gestionar el catálogo de forma más ágil.
+- El **alumnado y profesorado** del IES Celia Viñas, que pueden consultar la disponibilidad de un libro antes de acercarse a solicitarlo.
+
+Además, este proyecto sirve como trabajo práctico para el módulo de **Lenguajes de Marcas** (1º DAW), aplicando los conocimientos de maquetación semántica y estilos CSS.
 ## Características Principales
 - **Diseño Responsivo**: Adaptado a móviles, tablets y monitores.
 - **Filtro dinámico**: Búsqueda en tiempo real de títulos y autores.
